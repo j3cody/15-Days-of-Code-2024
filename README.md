@@ -9,3 +9,6 @@
 - Question 2
   [Submission Link]
 - Other Tasks
+  watching js lecture 8 highorder functions
+  watching stl map from luv stl
+  
