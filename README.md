@@ -6,9 +6,11 @@
 
 - Question 1
   (https://codeforces.com/contest/1995/submission/287464604:)
-- Question 2
-  [Submission Link]
+
+
+- give codechef contest in div-3 and solve 4 problem and final rating is 1492.
+  
 - Other Tasks
-  watching js lecture 8 highorder functions
-  watching stl map from luv stl
+  watched-> js lecture 8 highorder functions, 
+  watched-> stl map from luv stl
   
