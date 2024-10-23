@@ -1,11 +1,11 @@
-# [Name] - Vision 15 Days of Code Log
+# jatin - Vision 15 Days of Code Log
 
 ### Day 1
 
-[Month] [Date], 2022
+10, 23, 2024
 
 - Question 1
-  [Submission Link]
+  (https://codeforces.com/contest/1995/submission/287464604:)
 - Question 2
   [Submission Link]
 - Other Tasks
