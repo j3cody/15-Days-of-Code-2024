@@ -1,16 +1,18 @@
 # jatin - Vision 15 Days of Code Log
 
-### Day 1
+### Day 2
 
-10, 23, 2024
+10, 24, 2024
 
 - Question 1
-  (https://codeforces.com/contest/1995/submission/287464604:)
+  https://www.codechef.com/problems/MEDIANT
 
+- Question 2
+  https://leetcode.com/submissions/detail/1431750271/
 
-- give codechef contest in div-3 and solve 4 problem and final rating is 1492.
-  
+- give cf contest in div-3 
 - Other Tasks
-  watched-> js lecture 8 highorder functions, 
-  watched-> stl map from luv stl
+  (1) learn about compare sort,
+  
+
   
