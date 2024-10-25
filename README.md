@@ -30,4 +30,22 @@
   (1) learn about compare sort,
   
 
+### Day 3
+10, 25, 24
+
+- Question 1
+  https://codeforces.com/contest/2030/submission/287900860
+
+- Question 2
+  https://codeforces.com/contest/478/submission/287917615
+
+- Question 3
+  https://codeforces.com/contest/230/submission/287923469
+
+- Question 4
+  https://codeforces.com/contest/451/submission/287938164
+
+- upsolve the cf contest both question of dp  
+
+
   
