@@ -31,7 +31,7 @@
   
 
 ### Day 3
-10, 25, 24
+10, 25, 2024
 
 - Question 1
   https://codeforces.com/contest/2030/submission/287900860
@@ -47,5 +47,24 @@
 
 - upsolve the cf contest both question of dp  
 
+### Day 4
+10, 26, 2024
 
+- Question 1
+  https://codeforces.com/contest/2030/submission/287976273
+
+- Question 2
+  https://codeforces.com/contest/1990/submission/288075366
+
+- Question 3
+  https://codeforces.com/contest/1991/submission/288092688
+
+
+- Question 4
+  https://leetcode.com/submissions/detail/1433650666/
+
+- Question 5
+  https://leetcode.com/submissions/detail/1434119293/
+
+- give div-2 contest solve 2 questions  rating (1103) before these contest
   
