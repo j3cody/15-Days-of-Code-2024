@@ -68,3 +68,19 @@
 
 - give div-2 contest solve 2 questions  rating (1103) before these contest
   
+### Day 5
+10, 27, 2024
+
+- Question 1
+  https://codeforces.com/contest/2014/submission/288248168
+
+- Question 2
+  https://codeforces.com/contest/2022/submission/288255030
+
+- Question 3
+  https://codeforces.com/contest/2020/submission/288258014
+
+- Question 4
+  https://leetcode.com/submissions/detail/1435217212/
+
+- lean about dom in js   
