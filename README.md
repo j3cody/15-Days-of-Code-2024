@@ -84,3 +84,17 @@
   https://leetcode.com/submissions/detail/1435217212/
 
 - lean about dom in js   
+
+### Day 6
+10, 28, 2024
+
+- Question 1
+  https://codeforces.com/contest/2023/problem/A
+
+- Question 2
+  https://codeforces.com/contest/2026/submission/288610275
+
+- Question 3
+  https://leetcode.com/problems/find-peak-element/submissions/1436469327/
+
+- give the cf div-2 and solve 1 question rating(1092) before these  
