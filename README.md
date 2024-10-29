@@ -98,3 +98,14 @@
   https://leetcode.com/problems/find-peak-element/submissions/1436469327/
 
 - give the cf div-2 and solve 1 question rating(1092) before these  
+
+### Day 7
+10, 29, 2024
+
+- Question 1
+  https://codeforces.com/contest/2009/submission/288706565
+
+- Question 2
+  https://leetcode.com/submissions/detail/1437479331/
+  
+- upsolve the contest  
