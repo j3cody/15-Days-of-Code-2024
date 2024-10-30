@@ -109,3 +109,10 @@
   https://leetcode.com/submissions/detail/1437479331/
   
 - upsolve the contest  
+
+### Day 8
+
+- Question 1
+  https://codeforces.com/contest/2004/problem/B
+
+- give codechef contest and solve 2 question rating in these contest 1492
