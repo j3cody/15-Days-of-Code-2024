@@ -117,3 +117,14 @@
   https://codeforces.com/contest/2004/problem/B
 
 - give codechef contest and solve 2 question rating in these contest 1492
+
+
+### Day 9
+10,31,2024
+
+- Question 1
+  https://codeforces.com/contest/1976/problem/B
+
+- Question 2
+  https://leetcode.com/submissions/detail/1439231466/
+
