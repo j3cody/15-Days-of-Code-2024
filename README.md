@@ -128,3 +128,18 @@
 - Question 2
   https://leetcode.com/submissions/detail/1439231466/
 
+
+### Day 10
+11,1,2024
+
+- Question 1
+  https://codeforces.com/contest/2032/submission/289311927
+
+
+- Question 2
+  https://codeforces.com/contest/2032/submission/289298274
+
+
+- Question 3
+  https://leetcode.com/submissions/detail/1440179837/
+
