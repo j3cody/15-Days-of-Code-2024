@@ -143,3 +143,21 @@
 - Question 3
   https://leetcode.com/submissions/detail/1440179837/
 
+### Day 11
+11,02,2024
+
+- Question 1
+  https://leetcode.com/problems/circular-sentence/submissions/1440933527/?envType=daily-question&envId=2024-11-02
+
+- Question 2
+  https://codeforces.com/contest/2032/problem/B
+
+- Question 3
+  https://codeforces.com/contest/2035/problem/B
+
+- Question 4
+  https://codeforces.com/gym/101021/problem/1
+
+- give the codeforces div 3 able to solve 2 questions and rating 1064 before these  
+
+
