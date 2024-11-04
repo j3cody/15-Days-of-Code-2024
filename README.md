@@ -161,3 +161,15 @@
 - give the codeforces div 3 able to solve 2 questions and rating 1064 before these  
 
 
+### Day 12
+11,04,2024
+
+- Question 1
+  https://leetcode.com/submissions/detail/1441724114/
+
+- Question 2
+  https://leetcode.com/submissions/detail/1442752796/
+
+- upsolve the contest questions
+
+- learn some oops topic
