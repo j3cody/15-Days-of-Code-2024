@@ -173,3 +173,13 @@
 - upsolve the contest questions
 
 - learn some oops topic
+
+### Day 13
+11,05,2024
+
+- Question 1
+  https://codeforces.com/problemset/problem/1932/B
+
+- Question 2
+  https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2024-11-05  
+
