@@ -183,3 +183,13 @@
 - Question 2
   https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/?envType=daily-question&envId=2024-11-05  
 
+
+### Day 14
+11,06,2024
+
+
+- Question 1
+  https://leetcode.com/problems/find-if-array-can-be-sorted/submissions/1445067712/
+
+- gave the codechef contest and  solved 4 problems rating changes to 1530
+  
