@@ -192,3 +192,14 @@
   https://leetcode.com/problems/find-if-array-can-be-sorted/submissions/1445067712/
 
 - gave the codechef contest and  solved 4 problems rating changes to 1530.
+
+### Day 15
+11,07,2024
+
+- Question 1
+  https://leetcode.com/submissions/detail/1445789100/
+
+- Question 2
+  https://codeforces.com/contest/1932/submission/290097230
+
+- learn about hashmap;    
